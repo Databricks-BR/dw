@@ -4,6 +4,7 @@
 # Databricks Labs - MODERNIZE SEU DATA WAREHOUSE
 
 Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades em DATA WAREHOUSE
+</br>
 
 ## Ementa do Curso
 
@@ -21,7 +22,7 @@ Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades em DA
 | 10 | Perguntas e Respostas                                                              | 15 min |
 | 11 | Pesquisa de Satisfação                                                             |  5 min |
 
-</br>
+</br></br>
 
 ## Referências Adicionais
 
@@ -31,7 +32,7 @@ Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades em DA
 * [SQL Language reference - Português](https://learn.microsoft.com/pt-br/azure/databricks/sql/language-manual)
 
 
-
+</br></br>
 
 
 ## e-Books
