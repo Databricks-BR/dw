@@ -37,9 +37,9 @@ Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades em DA
 
 ## e-Books
 
-<a href="https://www.databricks.com/resources/ebook/migrating-from-a-data-warehouse-to-a-data-lakehouse"><img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/ebook1.png" style="height: 250px;" ></a> 
-<a href="https://www.databricks.com/resources/ebook/data-lakehouse-is-your-next-data-warehouse"><img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/ebook2.png" style="height: 250px;"></a> 
-<a href="https://www.databricks.com/resources/ebook/rise-data-lakehouse"><img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/book3.png" style="height: 250px;"></a> 
+<a href="https://www.databricks.com/resources/ebook/migrating-from-a-data-warehouse-to-a-data-lakehouse"><img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/ebook1.png" style="height: 280px;" ></a> 
+<a href="https://www.databricks.com/resources/ebook/data-lakehouse-is-your-next-data-warehouse"><img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/ebook2.png" style="height: 280px;"></a> 
+<a href="https://www.databricks.com/resources/ebook/rise-data-lakehouse"><img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/book3.png" style="height: 280px;"></a> 
 
 </br></br>
 
