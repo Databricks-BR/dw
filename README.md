@@ -6,13 +6,13 @@
 Treinamento na plataforma Databricks com foco nas funcionalidades em DATA WAREHOUSE.
 </br></br>
 A arquitetura **LAKEHOUSE** e o Databricks SQL trazem clouds data warehousing recursos para o seu data lake. Usando estruturas de dados, relações e ferramentas de gerenciamento familiares, você pode modelar um data warehouse de alto desempenho e econômico que pode ser executado diretamente em seu data lake.
-</br>
-<img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/arquitetura_generica.png">
-</br>
+</br></br>
+<img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/arquitetura_generica.png" style="width: 800px;">
+</br></br>
 Tal como acontece com um Data Warehouse tradicional, você modela os dados de acordo com os requisitos de negócios e depois os fornece aos usuários finais para análises e relatórios. Ao contrário de um data warehouse tradicional, é possível simplificar e unificar a Arquitetura de Dados, trazendo maior agilidade e colaboração na equipe de Dados (engenheiros, cientistas e analistas), com toda a Governança, Segurança e Ratreabilidade, garantino a integração com o ecossistema de soluções de dados, incluindo as diversas ferramentas de Visualização de Dados.</br>
-</br>
-<img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/arquitetura_dw.png">
-</br>
+</br></br>
+<img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/arquitetura_dw.png"  style="width: 800px;">
+</br></br>
 </br></br>
 
 ## Referências
