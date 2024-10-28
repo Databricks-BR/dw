@@ -27,7 +27,7 @@ Tal como acontece com um Data Warehouse tradicional, você modela os dados de ac
 ## Vídeos em Português
 
 * [Pílulas Conhecimento:  SQL Warehouse](https://www.youtube.com/watch?v=3WrJe50XMKY&list=PLCwzOxf30tbV6oFaJ5C9K9mVW0o51I6X1&index=4)
-* [Dados nas Alturas:   Federação de Dados](https://www.youtube.com/watch?v=WQc9rb-SQMQ
+* [Dados nas Alturas: Federação de Dados](https://www.youtube.com/watch?v=WQc9rb-SQMQ)
 * [Data & AI Summit: Otimizando a criação de Relatórios com IA generativa](https://www.youtube.com/watch?v=fH29uL40fZs)
 * [Luan Moreno: Databricks SQL como Data Warehouse](https://www.youtube.com/watch?v=NkovUGA7gTE)
 * [Luan Moreno: Data Vault & Databricks](https://www.youtube.com/watch?v=tXPCTSNZeOo)
