@@ -51,6 +51,15 @@ Tal como acontece com um Data Warehouse tradicional, você modela os dados de ac
 
 </br></br>
 
+## Depoimento de Clientes
+
+* [Grupo Petropolis: Lakehouse na indústria de cervejaria](https://www.linkedin.com/pulse/lakehouse-na-ind%C3%BAstria-de-cervejaria-thiberio-menezes-vo1yf/?trackingId=mJ7sknlUQzerPNdEQaynpg%3D%3D)
+* [Henry Schein: Migração para o Databricks](https://www.linkedin.com/pulse/migrating-data-environment-databricks-governance-cost-omar-moreira-jbmif/?trackingId=KqvcX60hRNGWx9vzAKWxWg%3D%3D)
+* [Rodonaves: Migração para o Databricks](https://www.linkedin.com/pulse/modernization-databricks-rodonaves-cassiano-festucci-jllwf/?trackingId=pYmUUQdFSdybeuFr9Cm%2F7A%3D%3D)
+* [Consumidor Positivo: Migração para o Databrikcs](https://www.linkedin.com/pulse/modernizing-data-architecture-reducing-infrastructure-machado-ekfdf/?trackingId=NXr%2BcKZZ2DQkBpxU%2FesFDw%3D%3D)
+
+</br></br>
+
 ## Databricks ACADEMY
 
 Trilhas disponíveis (Learning Plan):
