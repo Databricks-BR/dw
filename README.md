@@ -35,6 +35,14 @@ Tal como acontece com um Data Warehouse tradicional, você modela os dados de ac
 
 </br></br>
 
+## BLOGS e Artigos
+
+* [Lakehouse Federation](https://medium.com/dbsql-sme-engineering/lakehouse-federation-single-pane-of-glass-for-all-your-data-bc4b26144c59)
+* [Modelagem: OBT-One Big Table x Star Schema](https://medium.com/dbsql-sme-engineering/one-big-table-vs-dimensional-modeling-on-databricks-sql-755fc3ef5dfd)
+* [Star Schema Data Modeling Best Practices](https://medium.com/dbsql-sme-engineering/star-schema-data-modeling-best-practices-on-databricks-sql-8fe4bd0f6902)
+
+</br></br>
+
 ## e-Books
 
 <a href="https://www.databricks.com/resources/ebook/migrating-from-a-data-warehouse-to-a-data-lakehouse"><img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/ebook1.png" style="height: 280px;" ></a> 
