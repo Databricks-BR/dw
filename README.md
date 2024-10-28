@@ -3,15 +3,16 @@
 
 # Databricks Labs - MODERNIZE SEU DATA WAREHOUSE
 
-Treinamento na plataforma Databricks com foco nas funcionalidades em DATA WAREHOUSE
+Treinamento na plataforma Databricks com foco nas funcionalidades em DATA WAREHOUSE.
 </br>
-
-
+A arquitetura **LAKEHOUSE** e o Databricks SQL trazem clouds data warehousing recursos para o seu data lake. Usando estruturas de dados, relações e ferramentas de gerenciamento familiares, você pode modelar um data warehouse de alto desempenho e econômico que pode ser executado diretamente em seu data lake.
+</br>
+Tal como acontece com um data warehouse tradicional, você modela os dados de acordo com os requisitos de negócios e depois os fornece aos usuários finais para análises e relatórios. Ao contrário de um data warehouse tradicional, você pode evitar isolar seus dados analíticos de negócios ou criar cópias redundantes que rapidamente se tornam obsoletas.
 </br></br>
 
-## Referências Adicionais
+## Referências
 
-* [What is Data Warehousing on Databricks](https://docs.databricks.com/sql/index.html#what-is-data-warehousing-on-databricks)
+* [O que é um Data Warehousing no Databricks](https://docs.databricks.com/pt/sql/index.html#what-is-data-warehousing-on-databricks)
 * [Página principal do Databrick SQL](https://www.databricks.com/br/product/databricks-sql)
 * [SQL Language reference - Inglês](https://docs.databricks.com/sql/language-manual/index.html)
 * [SQL Language reference - Português](https://learn.microsoft.com/pt-br/azure/databricks/sql/language-manual)
