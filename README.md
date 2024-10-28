@@ -3,24 +3,9 @@
 
 # Databricks Labs - MODERNIZE SEU DATA WAREHOUSE
 
-Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades em DATA WAREHOUSE
+Treinamento na plataforma Databricks com foco nas funcionalidades em DATA WAREHOUSE
 </br>
 
-## Ementa do Curso
-
-| # | Tópicos | Duração |
-| -- | -- | -- |
-| 01 | Conceito de Lakehouse, Databricks SQL, Custo eficiente, SQL Serverless, Menus e UI | 10 min |
-| 02 | Laboratório 01 - Comandos básicos em SQL no  Editor de SQL e Unity Catalog         | 20 min |
-| 03 | Laboratório 02 - Ingestão de tabelas CSV, Uso do Notebook e Data Explorer          | 10 min |
-| 04 | Laboratório 03 - Consultas avançadas, Query History e Query Profiler               | 20 min |
-| 05 | Laboratório 04 - Criação de um Alerta                                              | 10 min |
-| 06 | Laboratório 05 - Criação de Visualização na Query                                  | 10 min |
-| 07 | Laboratório 06 - Criação de um Painel (Dashboard - LAKEVIEW)                       | 20 min |
-| 08 | Laboratório 07 - Funções de Generative AI com SQL                                  | 10 min |
-| 09 | Considerações finais, Integração de Soluções e Referências Adicionais              |  5 min |
-| 10 | Perguntas e Respostas                                                              | 15 min |
-| 11 | Pesquisa de Satisfação                                                             |  5 min |
 
 </br></br>
 
@@ -39,7 +24,7 @@ Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades em DA
 
 <a href="https://www.databricks.com/resources/ebook/migrating-from-a-data-warehouse-to-a-data-lakehouse"><img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/ebook1.png" style="height: 280px;" ></a> 
 <a href="https://www.databricks.com/resources/ebook/data-lakehouse-is-your-next-data-warehouse"><img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/ebook2.png" style="height: 280px;"></a> 
-<a href="https://www.databricks.com/resources/ebook/rise-data-lakehouse"><img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/book3.png" style="height: 280px;"></a> 
+<a href="[https://www.databricks.com/resources/ebook/big-book-data-warehousing-and-bi]"><img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/book3.png" style="height: 280px;"></a> 
 
 </br></br>
 
