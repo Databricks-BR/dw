@@ -1,7 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/header_dw_github.png">
 
-# Databricks Labs - MODERNIZE SEU DATA WAREHOUSE
+# Databricks Data Labs
 
 Treinamento na plataforma Databricks com foco nas funcionalidades em DATA WAREHOUSE.
 </br></br>
@@ -43,14 +43,6 @@ Tal como acontece com um Data Warehouse tradicional, você modela os dados de ac
 
 </br></br>
 
-## e-Books
-
-<a href="https://www.databricks.com/resources/ebook/migrating-from-a-data-warehouse-to-a-data-lakehouse"><img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/ebook1.png" style="height: 280px;" ></a> 
-<a href="https://www.databricks.com/resources/ebook/data-lakehouse-is-your-next-data-warehouse"><img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/ebook2.png" style="height: 280px;"></a> 
-<a href="[https://www.databricks.com/resources/ebook/big-book-data-warehousing-and-bi]"><img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/book3.png" style="height: 280px;"></a> 
-
-</br></br>
-
 ## Depoimento de Clientes
 
 * [Grupo Petropolis: Lakehouse na indústria de cervejaria](https://www.linkedin.com/pulse/lakehouse-na-ind%C3%BAstria-de-cervejaria-thiberio-menezes-vo1yf/?trackingId=mJ7sknlUQzerPNdEQaynpg%3D%3D)
@@ -59,6 +51,16 @@ Tal como acontece com um Data Warehouse tradicional, você modela os dados de ac
 * [Consumidor Positivo: Migração para o Databrikcs](https://www.linkedin.com/pulse/modernizing-data-architecture-reducing-infrastructure-machado-ekfdf/?trackingId=NXr%2BcKZZ2DQkBpxU%2FesFDw%3D%3D)
 
 </br></br>
+
+
+## e-Books
+
+<a href="https://www.databricks.com/resources/ebook/migrating-from-a-data-warehouse-to-a-data-lakehouse"><img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/ebook1.png" style="height: 280px;" ></a> 
+<a href="https://www.databricks.com/resources/ebook/data-lakehouse-is-your-next-data-warehouse"><img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/ebook2.png" style="height: 280px;"></a> 
+<a href="[https://www.databricks.com/resources/ebook/big-book-data-warehousing-and-bi]"><img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/book3.png" style="height: 280px;"></a> 
+
+</br></br>
+
 
 ## Databricks ACADEMY
 
