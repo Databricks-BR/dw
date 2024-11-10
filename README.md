@@ -16,6 +16,13 @@ Tal como acontece com um Data Warehouse tradicional, você modela os dados de ac
 </br></br>
 </br></br>
 
+## Webinar - Vídeo Youtube
+
+<a href="https://www.youtube.com/watch?v=5AlU1wPr4f0"><img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/webinar.png" style="width: 400px;"></a>
+
+</br></br>
+</br></br>
+
 ## Referências
 
 * [O que é um Data Warehousing no Databricks](https://docs.databricks.com/pt/sql/index.html#what-is-data-warehousing-on-databricks)
