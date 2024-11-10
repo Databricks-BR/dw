@@ -18,10 +18,10 @@ Tal como acontece com um Data Warehouse tradicional, você modela os dados de ac
 
 ## Webinar - Vídeo Youtube
 
-<a href="https://www.youtube.com/watch?v=5AlU1wPr4f0"><img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/webinar.png" style="width: 400px;"></a>
+<a href="https://www.youtube.com/watch?v=5AlU1wPr4f0"><img src="https://raw.githubusercontent.com/Databricks-BR/dw/main/images/webinar.png" style="width: 600px;"></a>
 
 </br></br>
-</br></br>
+
 
 ## Referências
 
