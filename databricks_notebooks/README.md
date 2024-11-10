@@ -11,10 +11,12 @@
 
 <img src="https://raw.githubusercontent.com/Databricks-BR/lab_sql/main/images/lab02_1.png">
 </br></br>
-Na janela de importação, clique na opção "**URL**".
+
+Na janela de importação, clique na opção **URL**
+
 </br></br>
 No campo texto da URL, digite o endereço do LINK destacado abaixo:
-
+</br></br>
 ``` html
 
 
