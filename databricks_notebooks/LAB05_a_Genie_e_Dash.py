@@ -20,17 +20,17 @@
 # MAGIC <img src="http://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png" width="100px">
 # MAGIC <img src="http://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png" width="100px">
 # MAGIC
-# MAGIC ## Você já ouviu falar sobre Pokémons?
-# MAGIC Pokémon é uma franquia de mídia originária do Japão que gira em torno de criaturas fictícias chamadas "Pokémons" (abreviação de "Pocket Monsters", ou "Monstros de Bolso"). A ideia central é que os Pokémons são seres com habilidades especiais, como a capacidade de lançar ataques elementares ou de evoluir para formas mais poderosas. Eles podem ser capturados, treinados e usados em batalhas contra outros Pokémons.
+# MAGIC ## Você já ouviu falar sobre Pokémon?
+# MAGIC Pokémon é uma franquia de mídia originária do Japão que gira em torno de criaturas fictícias chamadas "Pokémon" (abreviação de "Pocket Monsters", ou "Monstros de Bolso"). A ideia central é que os Pokémon são seres com habilidades especiais, como a capacidade de lançar ataques elementares ou de evoluir para formas mais poderosas. Eles podem ser capturados, treinados e usados em batalhas contra outros Pokémon.
 # MAGIC
 
 # COMMAND ----------
 
 # MAGIC %md
 # MAGIC
-# MAGIC <!-- Tipos de Pokémons -->
+# MAGIC <!-- Tipos de Pokémon -->
 # MAGIC
-# MAGIC ## Tipos de Pokémons
+# MAGIC ## Tipos de Pokémon
 # MAGIC
 # MAGIC Os Pokémons são classificados em diferentes tipos, cada um com suas próprias características e habilidades. Abaixo estão alguns dos tipos mais comuns:
 # MAGIC
